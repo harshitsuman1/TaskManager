@@ -6,7 +6,7 @@ using TaskManagerAPI.Models;
 namespace TaskManagerAPI.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("/[controller]")]
     public class TasksController : ControllerBase
     {
         private readonly TaskDbContext _context;
