@@ -94,6 +94,7 @@ Include a short video demonstrating:
 - Running the API
 - Performing basic CRUD operations
 - Explaining your folder and code structure
+- Navigate to: `https://drive.google.com/file/d/17sNQXluQ2YKI83AK47bNjIeqqv9Uaf1H/view?usp=sharing` to watch the Video Walkthrough
 
 ---
 
